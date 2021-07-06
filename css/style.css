@@ -1,0 +1,59 @@
+
+.baslık {
+       width: 1525px;
+       height: 2700px;
+       background-color: rgb(189, 189, 189);
+ }
+
+ .baslık h1 {
+     text-align: center;
+     padding-top: 50px;
+ }
+
+ .baslık p {
+     text-align: center;
+ }
+
+ .whiteback {
+     width: 1420px;
+     height: 700px;
+     background-color: white;
+     
+ }
+ .whiteback img {
+     padding-left: 190px;
+ }
+
+ .move {
+     padding-left: 50px;
+ }
+
+ .timeline {
+     font-size: 20px;
+ }
+
+ .timeline h1 {
+     text-align: center;
+ }
+
+.timeline ul {
+    padding-top: 50px;
+    padding-left: 350px;
+}
+
+.timeline blockquote {
+    text-align: center;
+}
+
+.second { 
+    padding-right: 300px;
+}
+
+.lastpart p {
+    font-size: 25px;
+}
+
+
+
+
+
